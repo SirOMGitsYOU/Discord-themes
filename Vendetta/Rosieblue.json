@@ -4,9 +4,12 @@
     "version": "1",
     "authors": [
       {
-        "name": "Moodle & Poitor",
+        "name": "Moodle",
         "id": "807170846497570848"
-      }
+      },
+      {
+        "name": "Poitor",
+        "id": "115122884694769672"
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
