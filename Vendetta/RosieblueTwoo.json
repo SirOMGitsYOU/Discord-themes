@@ -1,16 +1,12 @@
 {
-    "name": "RosieBlue Twoooo",
+    "name": "RosieBlue Twoo",
     "description": "meow meow but in blue - Some fixes for my phone by poitor",
     "version": "1",
     "authors": [
       {
-        "name": "Moodle",
-        "id": "807170846497570848"
-      },
-      {
         "name": "Poitor",
         "id": "115122884694769672"
-      },
+      }
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
